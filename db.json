@@ -1,4 +1,6 @@
-"footer": {
+{
+"footer":
+  {
 "item": [
 {
 "@type": "tablink",
@@ -17,8 +19,9 @@
 },
 {
 "@type": "webview",
-"@src": "http:\/\/rank.html",
+"@src": "http://rank.html",
 "#label": "ranking"
 }
 ]
+}
 }
