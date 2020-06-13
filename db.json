@@ -1,0 +1,40 @@
+{
+  
+   
+      "tab": [
+        {
+          "@label": "aaa",
+          "@color": "#ff0000",
+          "item": [
+            {
+              "@img": "111.jpg",
+              "@src": "http://111.html",
+              "#text": "first news data , test1"
+            },
+            {
+              "@img": "222.jpg",
+              "@src": "http://222.html",
+              "#text": "second news data"
+            }
+          ]
+        },
+        {
+          "@label": "bbb",
+          "@color": "#00ff00",
+          "item": [
+            {
+              "@img": "333.jpg",
+              "@src": "http://333.html",
+              "#text": "first data for second tab"
+            },
+            {
+              "@img": "444.jpg",
+              "@src": "http://444.html",
+              "#text": "second data for second tab"
+            }
+          ]
+        }
+      ]
+  
+  
+}
